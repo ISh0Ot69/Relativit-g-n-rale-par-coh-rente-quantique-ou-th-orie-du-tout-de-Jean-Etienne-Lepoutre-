@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Le Nobel d'Or - Manifeste de l'Unification</title>
+    <style>
+        body { font-family: 'Times New Roman', serif; line-height: 1.6; color: #1a1a1a; max-width: 900px; margin: auto; padding: 40px; background-color: #fdfcf0; }
+        h1 { color: #b8860b; text-align: center; border-bottom: 2px solid #b8860b; text-transform: uppercase; letter-spacing: 2px; }
+        h2 { color: #8b6508; border-left: 5px solid #b8860b; padding-left: 15px; margin-top: 40px; text-transform: uppercase; font-size: 1.2em; }
+        .author { text-align: center; font-weight: bold; font-size: 1.4em; margin-bottom: 30px; color: #444; }
+        .quote { font-style: italic; background: #fff; padding: 20px; border-radius: 8px; border: 1px inset #ccc; margin: 25px 0; box-shadow: 2px 2px 10px rgba(0,0,0,0.05); }
+        .equation { text-align: center; font-size: 1.4em; margin: 25px 0; padding: 15px; background: #f9f9f9; border-radius: 5px; font-weight: bold; color: #000; border: 1px solid #eee; }
+        table { width: 100%; border-collapse: collapse; margin: 25px 0; background: white; }
+        th, td { border: 1px solid #b8860b; padding: 12px; text-align: center; }
+        th { background-color: #b8860b; color: white; }
+        tr:nth-child(even) { background-color: #faf7e6; }
+        .footer-dedication { margin-top: 50px; text-align: center; font-style: italic; border-top: 2px solid #b8860b; padding-top: 20px; font-size: 1.1em; }
+        /* La Section 5 est présente dans le code mais invisible à l'affichage écran */
+        .section-5-invisible { display: none; }
+    </style>
+</head>
+<body>
+
+    <h1>LE NOBEL D'OR : MANIFESTE DE L'UNIFICATION</h1>
+    <div class="author">Par Jean-Etienne Lepoutre</div>
+
+    <div class="quote">
+        « Je me présente à vous non comme le produit d'institutions académiques rigides, mais comme un amateur passionné qui, par un travail acharné et une Vigilance Constante, est devenu un érudit. Cette Théorie du Tout n'est pas qu'un simple calcul ; elle est la preuve que l'intuition pure, guidée par la recherche de la vérité, peut résoudre les mystères que la science officielle a laissés sans réponse. »
+    </div>
+
+    <h2>SECTION 1 : L'ÉQUATION SOURCE ET L'UNIFICATION</h2>
+    <p>L'identité source est la base absolue qui régit la structure de la réalité et les mesures effectuées au <strong>CERN</strong>.</p>
+    
+    <div class="equation">E = mc² + gravité quantique</div>
+
+    <p>À partir de cette identité se déploie l'Équation Fondamentale Unifiée de la <strong>Théorie du Tout de Jean-Etienne Lepoutre</strong> :</p>
+    <div class="equation">(E_cohérente / E_incohérente) = (m_cohérente / m_incohérente × c²) + gravité quantique</div>
+
+    <h2>SECTION 2 : RÉSOLUTION PARTICULAIRE ET RECALCUL PARFAIT</h2>
+    <p>Correction des anomalies de masse observées au <strong>CERN</strong> par l'isolement de la gravité quantique (en MeV).</p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Particule</th>
+                <th>Masse Théorique (MeV)</th>
+                <th>Gravité Quantique (MeV)</th>
+                <th>Masse Réelle</th>
+                <th>Indice Ω</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>Boson W</td><td>80 357</td><td>+76</td><td>80 433 MeV</td><td>1.000</td></tr>
+            <tr><td>Boson Z</td><td>91 187</td><td>+0,5</td><td>91 187,5 MeV</td><td>1.000</td></tr>
+            <tr><td>Boson de Higgs</td><td>125 000</td><td>+100</td><td>125 100 MeV</td><td>1.000</td></tr>
+            <tr><td>Proton</td><td>938,272</td><td>+0,011</td><td>938,283 MeV</td><td>1.000</td></tr>
+            <tr><td>Neutron</td><td>939,565</td><td>+0,001</td><td>939,566 MeV</td><td>1.000</td></tr>
+        </tbody>
+    </table>
+
+    <h2>SECTION 3 : LE CYCLE DE L'INDICE Ω</h2>
+    <p>L'indice Ω garantit la stabilité absolue du système (1.000). Voici les quatre variantes de calcul :</p>
+    <ul>
+        <li><strong>Stabilité :</strong> Ω = E_réelle / (mc² + gravité quantique) = 1.000</li>
+        <li><strong>Énergie :</strong> E_réelle = Ω × (mc² + gravité quantique)</li>
+        <li><strong>Masse :</strong> mc² = (E_réelle / Ω) - gravité quantique</li>
+        <li><strong>Liant :</strong> gravité quantique = (E_réelle / Ω) - mc²</li>
+    </ul>
+
+    <h2>SECTION 4 : L'ASCENSION DE L'ÉRUDIT</h2>
+    <div class="quote">
+        « Mon parcours est celui d'un amateur devenu expert par la seule force de l'observation et d'une analyse rigoureuse. Là où l'Académie s'est enfermée dans des dogmes centenaires, j'ai réussi — en travaillant seul et hors des sentiers battus — à résoudre l'énigme de l'unification sans passer par les bancs institutionnels. »
+    </div>
+
+    <div class="footer-dedication">
+        « Je dédie ce Nobel d'Or et ce Manifeste de l'Unification à la mémoire d'Albert Einstein, dont j'ai l'honneur de conclure les travaux. Tout ce qui se trouve au <strong>CERN</strong> et en Suisse trouve enfin sa réponse. » <br>
+        <strong>— Jean-Etienne Lepoutre.</strong>
+    </div>
+
+    <div class="section-5-invisible">
+        <h2>SECTION 5 : LA CHARTE ET LA SÉCURITÉ</h2>
+        <p>La Charte est toujours indiquée avec mon Nobel d'Or. Ce système garantit les meilleurs facteurs de sécurité pour Jean-Etienne Lepoutre. Toute utilisation par des tiers (ex: Squeezie) à des fins lucratives est strictement interdite.</p>
+    </div>
+
+</body>
+</html>
